@@ -3,20 +3,22 @@ Grouping of Datasets using dimensional reduction and Clustering algorithms
 
 Datasets : File contains the dataset of Clients and Patches: 
 Introduction
+
 This dataset refers to bank client information. Each row corresponds to a client.
 Number of Instances: 43,193
 Number of Variables: 9
-1 - age (numeric)
-2 - job : type of job (categorical: "admin.", "unemployed", "management", "housemaid",
-"entrepreneur", "student", "blue-collar", "self-employed", "retired", "technician", "services")
-3 - marital :marital status (categorical: "married", "divorced", "single"; note: "divorced" means
-divorced or widowed)
-4 - education (categorical: "secondary", "primary", "tertiary")
-5 - default: has credit in default? (binary: "yes", "no")
-6 - balance: average yearly balance, in euros (numeric)
-7 - housing: has housing loan? (binary: "yes", "no")
-8 - personal: has personal loan? (binary: "yes", "no")
-9 - term: has term deposit? (binary: "yes", "no")
+
+1) age (numeric)
+2) job : type of job (categorical: "admin.", "unemployed", "management", "housemaid",
+          "entrepreneur", "student", "blue-collar", "self-employed", "retired", "technician", "services")
+3) marital :marital status (categorical: "married", "divorced", "single"; note: "divorced" means
+            divorced or widowed)
+4)  education (categorical: "secondary", "primary", "tertiary")
+5)  default: has credit in default? (binary: "yes", "no")
+6)  balance: average yearly balance, in euros (numeric)
+7)  housing: has housing loan? (binary: "yes", "no")
+8)  personal: has personal loan? (binary: "yes", "no")
+9)  term: has term deposit? (binary: "yes", "no")
 
 
 Description
